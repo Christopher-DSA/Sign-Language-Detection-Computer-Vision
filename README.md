@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Briefly describe what your project is about.
+This project uses computer vision to detect sign language gestures in real-time via a webcam. It's designed to be a practical tool for those who want to communicate through sign language and for those interested in computer vision applications. 
 
 ## Table of Contents
 
@@ -15,6 +15,8 @@ Briefly describe what your project is about.
 7. [Acknowledgments](#acknowledgments)
 
 ## Features
+
+##Tech Stack
 
 List the features of your project.
 
