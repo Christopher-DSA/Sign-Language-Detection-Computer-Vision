@@ -8,7 +8,7 @@ This project uses computer vision to detect sign language gestures in real-time 
 
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Tech Stack](#techstack)
+3. [Tech Stack](#tech-stack)
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Contributing](#contributing)
