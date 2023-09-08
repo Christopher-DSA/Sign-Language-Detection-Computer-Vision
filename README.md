@@ -15,10 +15,13 @@ This project uses computer vision to detect sign language gestures in real-time 
 7. [Acknowledgments](#acknowledgments)
 
 ## Features
+-List the features of your project.
 
 ##Tech Stack
-
-List the features of your project.
+Python
+OpenCV
+Tensorflow
+Label-Studio
 
 ## Installation
 ### Insert installation steps here
