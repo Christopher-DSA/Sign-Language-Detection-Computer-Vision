@@ -1,5 +1,16 @@
 # Process
 
+## Summary:
+
+In order to get from webcam footage to being able to detect signlanguage in real time we will need the following:
+
+-A machine learning libary
+-A webcam
+-An object detection model.
+-A dataset of images containing sign language hand signs.
+-A way to label those images for the model to be able to differentiate which handsign is which.
+-To tune a pre-trained model for this specific task.
+
 ## 1. Choosing an Object Detection Model: 
 We will use a SSD (Single Shot Multibox Detector) and a MobNet. This combo is perfect when keeping speed in mind since sign language can be communicated fairly quickly in realtime.
 
