@@ -7,6 +7,7 @@ We will use a SSD (Single Shot Multibox Detector) and a MobNet. This combo is pe
 
 ### Other Options.
 -We could have gone with VGG 16 or Res Net for the base network, however keeping in mind that this is a real-time applciation we are going to go with mobnet which is more light-weight and speedy.
+
 -Instead of SSD we could have gone with YOLO (you only look once) since it is also quite fast when it comes to object recognition
 ,however yolo can struggle with more intricate differences in hand gestures or changes in a scene in general so we will go with SSD.
 
