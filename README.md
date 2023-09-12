@@ -12,23 +12,23 @@ The motivation is to explore the tensorflow machine learning libary and apply it
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Tech Stack](#tech-stack)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Acknowledgments](#acknowledgments)
+4. [Installation](#process)
+5. [Future Work](#future-work)
 
 ## Features
--List the features of your project.
+-Can distinguish between four sign language gestures in real-time (Hello, Thank you, Yes, No)
+-Lightweight and speedy object detection (SSD mobile net 300x300 base network)
+-Can detect multiple hands at once.
 
 ## Tech Stack
 - Python 3.9
 - OpenCV
 - TensorFlow
 - Label-Studio
-## Installation
-### Insert installation steps here
 
-## Usage
+## Process
+
+
+## Future Work
 
 
