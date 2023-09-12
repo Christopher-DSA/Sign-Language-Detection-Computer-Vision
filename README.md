@@ -43,5 +43,9 @@ The motivation is to explore the tensorflow machine learning libary and apply it
 
 ## Future Work
 -Train the object detection model with more signs.
+
 -Create a GUI for the program. So users can select which signs the would like to practice.
+
 -Explore alternate techniques for solving this problem such as Google Mediapipe (computer vision framework).
+
+-Train the model on a greater amount of data for each sign to improve accuracy and robustness.
