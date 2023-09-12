@@ -27,7 +27,8 @@ The motivation is to explore the tensorflow machine learning libary and apply it
 - Label-Studio
 
 ## Process
-
+1. Creating a vitrual anaconda enviroment and importing the following dependencies:
+   
 
 ## Future Work
 
