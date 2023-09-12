@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project uses computer vision to detect sign language gestures in real-time via a webcam. It's designed to be a practical tool for those who want to communicate through sign language and for those interested in computer vision applications. 
+The goal is to create a fast and accurate system that uses a webcam to recognize sign language in real-time. The motivation is to explore the tensorflow machine learning libary and apply it to a pratical appliaction.
 
 ## Table of Contents
 
