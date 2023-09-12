@@ -4,6 +4,7 @@
 
 The goal is to create a fast and accurate system that uses a webcam to recognize sign language in real-time. 
 
+
 The motivation is to explore the tensorflow machine learning libary and apply it to a practical application.
 
 ## Table of Contents
