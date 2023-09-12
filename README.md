@@ -17,7 +17,9 @@ The motivation is to explore the tensorflow machine learning libary and apply it
 
 ## Features
 -Can distinguish between four sign language gestures in real-time (Hello, Thank you, Yes, No)
+
 -Lightweight and speedy object detection (SSD mobile net 300x300 base network)
+
 -Can detect multiple hands at once.
 
 ## Tech Stack
